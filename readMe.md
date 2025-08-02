@@ -35,7 +35,7 @@ Here's a sneak peek into the game's interface:
 ## 🛠️ Tech Stack
 
   - **Backend**: **Django**
-  - **Frontend**: **HTML5**, **CSS3**
+  - **Frontend**: **HTML5**, **CSS3**, **JavaScript**
   - **Database**: **SQLite3** (default)
   - **Programming Language**: **Python**
 

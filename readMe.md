@@ -54,7 +54,7 @@ Make sure you have **Python** and **pip** installed on your system.
 1.  **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/number-guessing-game.git
+    git clone https://github.com/soaebhasan12/number-guessing-game.git
     cd number-guessing-game
     ```
 
@@ -62,12 +62,12 @@ Make sure you have **Python** and **pip** installed on your system.
 
       - On Windows:
         ```sh
-        python -m venv venv
+        python -m venv .venv
         .\venv\Scripts\activate
         ```
       - On macOS/Linux:
         ```sh
-        python3 -m venv venv
+        python3 -m venv .venv
         source venv/bin/activate
         ```
 

@@ -28,7 +28,7 @@ Here's a sneak peek into the game's interface:
 
 |  ![Easy level Page](Num_Gue_Game/game_screenshots/easy_level.png) |  ![Hard level Page](Num_Gue_Game/game_screenshots/hard_level.png) |  
 |:--:|:--:|  
-| **Easy level Pag** | **Hard level Page** |  
+| **Easy level Page** | **Hard level Page** |  
 
 -----
 

@@ -21,10 +21,10 @@ A classic number guessing game brought to life as a dynamic web application usin
 Here's a sneak peek into the game's interface:
 
 # 🎯Game Preview
- ![Home Page](Num_Gue_Game\game_screenshots\home.png)
- ![Level Selection Page](Num_Gue_Game\game_screenshots\stage.png)
- ![Easy level Page](Num_Gue_Game\game_screenshots\easy_level.png)
- ![Hard level Page](Num_Gue_Game\game_screenshots\hard_level.png)
+ ![Home Page](Num_Gue_Game/game_screenshots/home.png)
+ ![Level Selection Page](Num_Gue_Game/game_screenshots/stage.png)
+ ![Easy level Page](Num_Gue_Game/game_screenshots/easy_level.png)
+ ![Hard level Page](Num_Gue_Game/game_screenshots/hard_level.png)
 
 -----
 
